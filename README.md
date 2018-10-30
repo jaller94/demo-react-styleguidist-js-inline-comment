@@ -1,5 +1,5 @@
 # demo-react-styleguidist-js-inline-comment
-Reproducible demo for a bug
+Reproducible demo for [a bug with JavaScript inline comment in react-styleguidist](https://github.com/styleguidist/react-styleguidist/issues/1189).
 
 ### Setup
 ```
