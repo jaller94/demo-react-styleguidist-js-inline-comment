@@ -1,0 +1,16 @@
+{
+  "name": "demo-react-styleguidist-js-inline-comment",
+  "version": "1.0.0",
+  "description": "Reproducible demo for a bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaller94/demo-react-styleguidist-js-inline-comment.git"
+  },
+  "author": "Christian Paul",
+  "license": "MIT",
+  "public": "no"
+}
