@@ -14,6 +14,6 @@ Either run the dev server `npm run-script server` or build it `npm run-script bu
 Open the styleguide in the browser (default for server: http://localhost:6060/).
 When you open the JavaScript console, you should see this.
 
-![JavaScript log output: Opening and closing comments work! JavaScript error: SyntaxError: missing } after function body Learn More][screenshot.png]
+![JavaScript log output: Opening and closing comments work! JavaScript error: SyntaxError: missing } after function body. Learn More](screenshot.png)
 
 These errors come from the second `<script>` tag in `react-styleguide.html`, which is valid JavaScript in HTML.
