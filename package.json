@@ -15,9 +15,9 @@
   "license": "MIT",
   "public": false,
   "devDependencies": {
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0",
-    "react-styleguidist": "^8.0.2",
-    "webpack": "^4.23.1"
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-styleguidist": "^8.0.6",
+    "webpack": "^4.29.0"
   }
 }
